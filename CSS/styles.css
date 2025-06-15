@@ -1,4 +1,4 @@
-/* Базовые сбросы и общие стили */
+
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -28,7 +28,6 @@ img {
     height: auto;
 }
 
-/* Общие стили для секций */
 .section {
     padding: 120px 0;
 }
@@ -58,7 +57,6 @@ img {
     clear: both;
 }
 
-/* Хедер */
 .header {
     border-bottom: 1px solid #e7e9fc;
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
@@ -105,7 +103,7 @@ img {
 
 .nav-link,
 .address-link {
-    color: #2E2F42;
+    color: #2e2f42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -143,7 +141,6 @@ img {
     color: #434455;
 }
 
-/* Hero Section */
 .hero-section {
     background-color: #2E2F42;
     padding: 188px 0;
@@ -188,7 +185,6 @@ img {
     background-color: #404BBF;
 }
 
-/* Advantages Section */
 .advantages-section {
     padding: 120px 0;
 }
@@ -222,7 +218,6 @@ img {
     letter-spacing: 0.02em;
 }
 
-/* Our Team Section */
 .team-section {
     background-color: #F4F4FD;
     padding: 120px 0;
@@ -231,17 +226,13 @@ img {
 .section-title {
     color: #2E2F42;
     text-align: center;
-    font-size: 36px;
     font-weight: 700;
-    line-height: 1.11;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
     margin-bottom: 72px;
 }
 
 .team-list {
     font-size: 0;
-    text-align: center;
 }
 
 .team-member-card {
@@ -283,7 +274,6 @@ img {
     letter-spacing: 0.02em;
 }
 
-/* Our Portfolio Section */
 .portfolio-section {
     padding: 120px 0;
 }
